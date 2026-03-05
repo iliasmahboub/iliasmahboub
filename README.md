@@ -60,16 +60,4 @@ side quests   ███████░░░
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iliasmahboub&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b949e&line=8b949e&point=e6edf3&area=true&area_color=161b22)
 
-<br/>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=iliasmahboub&hide_border=true&show_icons=false&count_private=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&include_all_commits=true)&nbsp;&nbsp;![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmahboub&hide_border=true&layout=compact&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)
-
-</div>
-
----
-
-<div align="center">
-
-<sub>More context, projects, and experiments — [backstory →](https://iliasmahboub.com)</sub>
-
 </div>
