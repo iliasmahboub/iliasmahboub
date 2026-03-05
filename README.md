@@ -54,10 +54,10 @@ side quests   ███████░░░
 
 ---
 
-## GitHub Activity
+## Streak
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iliasmahboub&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b949e&line=8b949e&point=e6edf3&area=true&area_color=161b22)
+![](https://streak-stats.demolab.com/?user=iliasmahboub&hide_border=true&background=0D1117&stroke=30363D&ring=8B949E&fire=8B949E&currStreakNum=E6EDF3&sideNums=C9D1D9&currStreakLabel=6E7681&sideLabels=6E7681&dates=6E7681)
 
 </div>
