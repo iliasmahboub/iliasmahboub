@@ -2,10 +2,6 @@
 
 <br/>
 
-<img src="portrait.svg" width="480"/>
-
-<br/>
-
 ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=0&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=600&height=60&lines=ILIAS+MAHBOUB)
 
 ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=3000&color=6E7681&center=true&vCenter=true&repeat=true&width=700&height=30&lines=%22Not+a+computer+science+major.+Most+people+assume+I+am.%22)
