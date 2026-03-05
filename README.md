@@ -1,48 +1,44 @@
-# Ilias Mahboub
+<div align="center">
 
-> "Not a computer science major. Most people assume I am."
+<br/>
+
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=0&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=600&height=60&lines=ILIAS+MAHBOUB)
+
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=3000&color=6E7681&center=true&vCenter=true&repeat=true&width=700&height=30&lines=%22Not+a+computer+science+major.+Most+people+assume+I+am.%22)
+
+<br/>
 
 Builder working across neuroscience, AI systems, experimental software, and small strange tools.
 
-Read my backstory → https://iliasmahboub.com
+[backstory →](https://iliasmahboub.com)
+
+<br/>
+
+</div>
 
 ---
 
 ## Active Systems
 
-**Cortex**
-Gamified productivity system built with Next.js, Convex, and LLM agents.
-
-**Jword**
-AI platform that aggregates global opportunities and fellowships for students.
-
-**wav**
-Real-time 3D audio visualizer built with Three.js and the Web Audio API.
-
-**Experimental Tools**
-Small utilities, research tools, visualization engines, and CLI experiments.
+| | |
+|:--|:--|
+| **Cortex** | Gamified productivity system built with Next.js, Convex, and LLM agents |
+| **Jword** | AI platform aggregating global opportunities and fellowships for students |
+| **wav** | Real-time 3D audio visualizer built with Three.js and the Web Audio API |
+| **Experimental Tools** | Utilities, research tools, visualization engines, and CLI experiments |
 
 ---
 
 ## Stack
 
-**Languages**
-Rust, Python, TypeScript, JavaScript, Lua, HTML, CSS, R
-
-**Systems**
-Next.js, Vite, React, Node, Convex
-
-**Infrastructure**
-Clerk, Supabase, OpenClaw
-
-**Creative / Game**
-Phaser, Godot, Three.js
-
-**AI**
-OpenAI APIs, Ollama, DeepSeek, LLM agents
-
-**Research**
-Computational neuroscience, data analysis, scientific tooling
+```
+languages    rust · python · typescript · javascript · lua · html · css · r
+systems      next.js · vite · react · node · convex
+infra        clerk · supabase · openclaw
+creative     phaser · godot · three.js
+ai           openai apis · ollama · deepseek · llm agents
+research     computational neuroscience · data analysis · scientific tooling
+```
 
 ---
 
@@ -60,11 +56,20 @@ side quests   ███████░░░
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iliasmahboub&theme=dark&hide_border=true&show_icons=false&count_private=true&include_all_commits=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmahboub&theme=dark&hide_border=true&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iliasmahboub&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b949e&line=8b949e&point=e6edf3&area=true&area_color=161b22)
+
+<br/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=iliasmahboub&hide_border=true&show_icons=false&count_private=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&include_all_commits=true)&nbsp;&nbsp;![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmahboub&hide_border=true&layout=compact&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)
+
+</div>
 
 ---
 
-More context, projects, and experiments:
-Read my backstory → https://iliasmahboub.com
+<div align="center">
+
+<sub>More context, projects, and experiments — [backstory →](https://iliasmahboub.com)</sub>
+
+</div>
