@@ -15,18 +15,6 @@ Builder working across neuroscience, AI systems, experimental software, and smal
 <br/>
 
 </div>
-
----
-
-## Active Systems
-
-| | |
-|:--|:--|
-| **Cortex** | Gamified productivity system built with Next.js, Convex, and LLM agents |
-| **Jword** | AI platform aggregating global opportunities and fellowships for students |
-| **wav** | Real-time 3D audio visualizer built with Three.js and the Web Audio API |
-| **Experimental Tools** | Utilities, research tools, visualization engines, and CLI experiments |
-
 ---
 
 ## Stack
