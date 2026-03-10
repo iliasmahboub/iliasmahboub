@@ -15,7 +15,6 @@ Builder working across neuroscience, AI systems, experimental software, and smal
 <br/>
 
 </div>
----
 
 ## Stack
 
